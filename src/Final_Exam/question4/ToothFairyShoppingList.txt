@@ -1,0 +1,6 @@
+Johnson, John Candy
+Smith, Sarah Necklace
+Davis, David Watch
+Candies: 1
+Necklaces: 1
+Watches: 1

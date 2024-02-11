@@ -1,0 +1,43 @@
+BMW 118i
+Price:			€ 31.804
+New Price Roadworthy:	€ 33.054
+Road Tax / 3 Months:	€ 157 - € 176
+Body Type:		5-doors, hatchback
+Transmission:		6 speed manual transmission
+Number Of Seats:	5
+Segment:		c (small medium)
+Introduction:		july 2019
+End:			leverbaar
+
+BMW M135i
+Price:			€ 57.970
+New Price Roadworthy:	€ 59.220
+Road Tax / 3 Months:	€ 200 - € 224
+Body Type:		5-doors, hatchback
+Transmission:		7 speed automatic with double clutch
+Number Of Seats:	5
+Segment:		c (small medium)
+Introduction:		july 2019
+End:			leverbaar
+
+BMW 116d
+Price:			€ 34.282
+New Price Roadworthy:	€ 35.532
+Road Tax / 3 Months:	€ 326 - € 345
+Body Type:		5-doors, hatchback
+Transmission:		6 speed manual transmission
+Number Of Seats:	5
+Segment:		c (small medium)
+Introduction:		july 2019
+End:			leverbaar
+
+BMW 118d
+Price:			€ 36.908
+New Price Roadworthy:	€ 38.158
+Road Tax / 3 Months:	€ 360 - € 382
+Body Type:		5-doors, hatchback
+Transmission:		6 speed manual transmission
+Number Of Seats:	5
+Segment:		c (small medium)
+Introduction:		july 2019
+End:			leverbaar
